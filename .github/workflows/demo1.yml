@@ -1,4 +1,4 @@
-name: hello-world
+name: Mr-Khan
 'on': push
 jobs:
   my-job:
